@@ -5,9 +5,15 @@ src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeS
 </div>
 
 #### 🛠 Tools
-<div style="display:flex;"><img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
-src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img 
-  <br><img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=Jira-Software&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/><img
-src="https://img.shields.io/badge/Microsoft Teams-264A7?style=flat-square&logo=Microsoft Teams&logoColor=white"/><img
-  src="https://img.shields.io/badge/Microsoft Teams-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/><img
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
+  <br>
+  <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=Jira-Software&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft Teams-264A7?style=flat-square&logo=Microsoft Teams&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Salesforce -00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/><img
   <br></div>
