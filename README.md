@@ -2,8 +2,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lim%20Hyojin&fontSize=80&fontColor=F7F5F5)
-  
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Blake's%20GitHub%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 </div>  
 
 <div align="center">✨ Tech Stack ✨</div>
