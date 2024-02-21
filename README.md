@@ -9,7 +9,7 @@
 <br/>
 <div align="center">
      <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Flutter-03EF62?style=for-the-badge&logo=flutter&logoColor=white"/>
      <img src="https://img.shields.io/badge/getx-8A2BE2?style=for-the-badge&logo=GetX&logoColor=white"/>
 
   <br>
